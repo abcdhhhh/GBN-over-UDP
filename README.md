@@ -1,6 +1,6 @@
 # GBN Over UDP
 
-A simple implementation of RDT (Reliable Data Transfer) 3.0.  
+A simple implementation of GBN over UDP.  
 You need to open 3 command lines and run in correct order: interceptor, receiver, then sender.
 
 ## Interceptor
