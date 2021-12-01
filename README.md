@@ -1,4 +1,4 @@
-# RDT Over UDP
+# GBN Over UDP
 
 A simple implementation of RDT (Reliable Data Transfer) 3.0.  
 You need to open 3 command lines and run in correct order: interceptor, receiver, then sender.
